@@ -1,0 +1,57 @@
+body {
+    background-image: url(car.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+  }
+  
+  nav {
+      padding: 10px;
+      text-align: center;
+      font-size: 15px;
+     
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+  }
+  
+  nav li {
+    margin-right: 10px;
+    display: inline;
+    
+  }
+  
+  nav a {
+    color: #fff;
+  }
+  
+  aside {
+    background-color: #f4f4f4;
+    width: auto;
+    padding: 25px;
+    text-align: center;
+  }
+  
+  main {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    padding: 20px;
+    text-align: center;
+    color: white;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+  }
